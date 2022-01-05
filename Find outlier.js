@@ -5,8 +5,6 @@
 	The array is either entirely comprised of odd integers or entirely comprised of even integers except for a single integer N. 
 	Write a method that takes the array as an argument and returns this "outlier" N.
 
-
-
 **/
 
 //JS
