@@ -19,7 +19,6 @@ function high(x){
     let sum = 0;
     el.split("").map((l) => {
       sum+=alphabet.indexOf(l)+1;
-      console.log(el + " " + l);
     })
     if (max_w < sum) {
       max_w = sum;
